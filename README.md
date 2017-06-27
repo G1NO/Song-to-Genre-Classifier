@@ -9,3 +9,5 @@ The problem with this is:
 4. I want to hear music that is similar to what I'm listening to...not what someone else thinks I'd like
 
 So, in order to do this, I believe we should take an approach similar to how Shazam matches a "fingerprint" of a song to its database, and use an artificial neural net to match a "fingerprint" of a song to another very closely related fingerprint. However, before I take on that endeavor, I'd like to first see if I can classify a song into a genre, to see how accurate this approach could be....
+
+<a https://github.com/G1NO/Song-to-Genre-Classifier/blob/master/Intro_load_data.ipynb />
