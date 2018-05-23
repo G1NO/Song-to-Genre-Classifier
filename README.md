@@ -13,6 +13,6 @@ So, in order to do this, I believe we should take an approach similar to how Sha
 
   So, first off, an introduction to the project, and we begin by viewing a song by it's inherent signal process: [Signal Processes by Genre](https://github.com/G1NO/Song-to-Genre-Classifier/blob/master/Intro_load_data.ipynb)
   
-  Pretty cool to be able to visualize a song like this...as a signal. You can start to see the different patterns among the different genres. 
+  Pretty cool to be able to visualize a song like this...as a signal. You can start to see the different patterns among the different genres...
   
   
