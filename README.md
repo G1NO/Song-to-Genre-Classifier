@@ -1,5 +1,4 @@
-# Song-to-Genre-Classifier
-## Song to Genre Classifier using Deep Learning
+# Song To Genre Classifier Using Deep Learning
 
 Ever since I started hearing music recommended to me by services such as Pandora or Spotify, I've always been disappointed in the music selections that they think "I might like". For example, just the other day I created a station from a song by Nirvana on Spotify. I wanted to hear some 90's grunge songs that day. However, just a few songs into the playlist that Spotify created, I started to hear songs from artists like, Led Zeppelin and Jimi Hendrix. Now, while I enjoy these Classic Rock bands, it just didn't fit into the genre that I was looking for. The reason for this is that their recommendation systems are built on what's called "collaborative filtering". Collaborative filtering bases their recommendations on historical usage data. Essentially, the system uses k nearest neighbors or a logistic regression classifier to recommend songs from other users who have listened to the same song as I just listened to. So, if Bob and I liked the same song, then I must like some other songs that Bob likes. 
 
